@@ -1,6 +1,3 @@
-Screenshot:
-<img src="https://github.com/nazimfeni/flutter_module_17_assignment/blob/master/screenshot/screen1.jpg" width="200" height="400" alt="Potrait image">
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
